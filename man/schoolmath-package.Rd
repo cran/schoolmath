@@ -12,8 +12,8 @@ This package contains functions and datasets for math taught in school. A main f
 \tabular{ll}{
 Package: \tab schoolmath\cr
 Type: \tab Package\cr
-Version: \tab 0.2\cr
-Date: \tab 2007-06-11\cr
+Version: \tab 0.4\cr
+Date: \tab 2009-10-26\cr
 License: \tab GPL version 2 or newer \cr
 }
 }
