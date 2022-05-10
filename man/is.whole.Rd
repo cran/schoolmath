@@ -1,8 +1,8 @@
 \name{is.whole}
 \alias{is.whole}
-\title{ check wether a vector contains numbers with decimal places}
+\title{ check whether a vector contains numbers with decimal places}
 \description{
- This function checks, wether a vector contains whole numbers without decimal places. 
+ This function checks, whether a vector contains whole numbers without decimal places.
  It returns TRUE or FALSE
 }
 \usage{
@@ -14,7 +14,7 @@ is.whole(x)
 
 \author{ Joerg Schlarmann }
 
-\seealso{ 
+\seealso{
 	\code{\link{is.decimal}}}
 \examples{
 

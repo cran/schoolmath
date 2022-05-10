@@ -1,8 +1,8 @@
 \name{is.odd}
 \alias{is.odd}
-\title{ check wether numbers of a vector are odd }
+\title{ check whether numbers of a vector are odd }
 \description{
-  This function checks wether the numbers of a vector are odd. It returns TRUE/FALSE
+  This function checks whether the numbers of a vector are odd. It returns TRUE/FALSE
 }
 \usage{
 is.odd(x)
@@ -14,7 +14,7 @@ is.odd(x)
 
 \author{ Joerg Schlarmann }
 
-\seealso{ 
+\seealso{
 	\code{\link{is.even}}}
 \examples{
 

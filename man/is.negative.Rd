@@ -1,8 +1,8 @@
 \name{is.negative}
 \alias{is.negative}
-\title{ check wether numbers of a vector are negative }
+\title{ check whether numbers of a vector are negative }
 \description{
-  This function checks wether the numbers of a vector are negative. It returns TRUE/FALSE
+  This function checks whether the numbers of a vector are negative. It returns TRUE/FALSE
 }
 \usage{
 is.negative(x)
@@ -14,7 +14,7 @@ is.negative(x)
 
 \author{ Joerg Schlarmann }
 
-\seealso{ 
+\seealso{
 	\code{\link{is.positive}}
 	\code{\link{is.real.positive}}
 }

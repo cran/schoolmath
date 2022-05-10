@@ -1,8 +1,8 @@
 \name{is.prim}
 \alias{is.prim}
-\title{ check wether a vector contains prime-numbers }
+\title{ check whether a vector contains prime-numbers }
 \description{
- This function checks, wether a vector contains prime-numbers. It returns TRUE or FALSE
+ This function checks, whether a vector contains prime-numbers. It returns TRUE or FALSE
 }
 \usage{
 is.prim(y)
@@ -13,7 +13,7 @@ is.prim(y)
 
 \author{ Joerg Schlarmann }
 
-\seealso{ 
+\seealso{
 	\code{\link{primes}}}
 \examples{
 

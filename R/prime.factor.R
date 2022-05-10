@@ -1,7 +1,7 @@
 prime.factor <-
 function (n) 
 {
-    data(primlist)
+    primlist <- schoolmath::primlist
     dummy <- 2
     end <- 0
     faclist <- 0

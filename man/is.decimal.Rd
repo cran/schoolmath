@@ -1,8 +1,8 @@
 \name{is.decimal}
 \alias{is.decimal}
-\title{ check wether a vector contains numbers with decimal places}
+\title{ check whether a vector contains numbers with decimal places}
 \description{
- This function checks, wether a vector contains numbers with decimal places. It returns TRUE or FALSE
+ This function checks, whether a vector contains numbers with decimal places. It returns TRUE or FALSE
 }
 \usage{
 is.decimal(x)
@@ -13,7 +13,7 @@ is.decimal(x)
 
 \author{ Joerg Schlarmann }
 
-\seealso{ 
+\seealso{
 	\code{\link{is.whole}}}
 \examples{
 

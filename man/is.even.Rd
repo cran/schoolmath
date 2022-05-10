@@ -1,8 +1,8 @@
 \name{is.even}
 \alias{is.even}
-\title{ check wether numbers of a vector are even }
+\title{ check whether numbers of a vector are even }
 \description{
-  This function checks wether the numbers of a vector are even. It returns TRUE/FALSE
+  This function checks whether the numbers of a vector are even. It returns TRUE/FALSE
 }
 \usage{
 is.even(x)
@@ -14,7 +14,7 @@ is.even(x)
 
 \author{ Joerg Schlarmann }
 
-\seealso{ 
+\seealso{
 	\code{\link{is.odd}}}
 \examples{
 

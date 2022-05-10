@@ -5,7 +5,7 @@
 \description{
   This is a list of prime-numbers between 1 and 9999999
 }
-\usage{data(primlist)}
+\usage{primlist}
 \format{
   a vector containing a list of prime-numbers between 1 and 9999999
 }
