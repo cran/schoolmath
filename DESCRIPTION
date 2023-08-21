@@ -1,16 +1,20 @@
 Package: schoolmath
 Type: Package
 Title: Functions and Datasets for Math Used in School
-Version: 0.4.1
-Date: 2022-05-10
-Author: Joerg grosse Schlarmann, Josef Wienand
-Maintainer: Joerg grosse Schlarmann <schlarmann@produnis.de>
-Depends: R (>= 2.10)
-Description: Contains functions and datasets for math taught in school.
-  A main focus is set to prime-calculation.
+Authors@R: c(person(given="Jörg", family="große Schlarmann", role=c("aut", "cre"), email="schlarmann@produnis.de"), person(given="Josef", family="Wienand", role=c("ctb"), email="jwienand@produnis.de"))
+Description: Contains functions and datasets for math taught in school. A main focus is set to prime-calculation.
+Version: 0.4.2
+Date: 2023-08-21
 License: GPL (>= 2)
-Repository: CRAN
-Date/Publication: 2022-05-10 12:50:02 UTC
+Depends: R (>= 2.10)
+Encoding: UTF-8
+Language: en-US
 LazyData: true
 NeedsCompilation: no
-Packaged: 2022-05-10 10:50:13 UTC; produnis
+RoxygenNote: 7.2.3
+Packaged: 2023-08-21 12:43:11 UTC; produnis
+Author: Jörg große Schlarmann [aut, cre],
+  Josef Wienand [ctb]
+Maintainer: Jörg große Schlarmann <schlarmann@produnis.de>
+Repository: CRAN
+Date/Publication: 2023-08-21 14:20:02 UTC
