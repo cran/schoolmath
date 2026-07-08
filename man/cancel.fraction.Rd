@@ -13,10 +13,10 @@ cancel.fraction(numerator, denominator)
 #'}
 }
 \value{
-Character string
+An integer vector of length 2 containing the reduced numerator and denominator.
 }
 \description{
-returns a frequency table with absolute and relative frequencies and cumulated frequencies
+cancel a fraction to the smallest numbers
 }
 \examples{
 cancel.fraction(40,15)

@@ -4,13 +4,14 @@
 \alias{primes}
 \title{generate prime-numbers in a range from START to END}
 \usage{
-primes(start = 12, end = 9999)
+primes(start = 1, end = 9999, live = FALSE)
 }
 \arguments{
 \item{start}{the number to start from}
 
-\item{end}{the number to end
-#'}
+\item{end}{the number to end}
+
+\item{live}{should primes additionally be printed out to stdout when found? (default is FALSE)}
 }
 \value{
 a vector of prime numbers

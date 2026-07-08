@@ -2,22 +2,22 @@
 % Please edit documentation in R/functions.R
 \name{is.prim}
 \alias{is.prim}
-\title{check whether a vector contains prime-numbers}
+\title{Check whether a vector contains prime numbers}
 \usage{
-is.prim(y)
+is.prim(x)
 }
 \arguments{
-\item{y}{the number or vector to check}
+\item{x}{The number or vector to check.}
 }
 \value{
-true or false
+A logical vector indicating whether values are prime.
 }
 \description{
-check whether a vector contains prime-numbers
+Check whether a vector contains prime numbers
 }
 \examples{
-is.prim(8)  # this will return FALSE
-is.prim(11) # this will return TRUE
+is.prim(8)
+is.prim(11)
 
 x <- c(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11)
 is.prim(x)

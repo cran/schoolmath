@@ -13,7 +13,7 @@ decimal2fraction(decimal, period = 0)
 #'}
 }
 \value{
-a character string with the fraction.
+An integer vector of length 2 containing the numerator and denominator
 }
 \description{
 convert a decimal-number into fraction
